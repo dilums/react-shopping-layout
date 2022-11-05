@@ -1,9 +1,9 @@
 {
-    "title":"",
-    "desc":"",
+    "title":"React Shopping Layout",
+    "desc":"React layout for a small marketplace",
     "url":"",
-    "ogImg":"",
+    "ogImg":"https://res.cloudinary.com/ds574fco0/image/upload/v1667633483/github/og-shopping-layout_oklyil.jpg",
     "author":"Dilum Sanjaya",
     "twitter":"@DilumSanjaya",
-    "keywords":""
+    "keywords":"React.js, Next.js, Tailwind CSS"
 }
